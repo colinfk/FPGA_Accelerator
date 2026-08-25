@@ -1,6 +1,7 @@
 # ARIS/Codex 本机工作目录，不作为学习资料同步
 .agents/
 .aris/
+AGENTS.md
 
 # Vivado/XSim 生成文件
 *.jou
