@@ -1,0 +1,26 @@
+# ARIS/Codex 本机工作目录，不作为学习资料同步
+.agents/
+.aris/
+
+# Vivado/XSim 生成文件
+*.jou
+*.log
+*.str
+*.dmp
+*.wdb
+*.pb
+*.backup
+*.tmp
+.Xil/
+*.cache/
+*.runs/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.gen/
+
+# 常见编辑器和系统文件
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
